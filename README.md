@@ -78,4 +78,4 @@ You can also open the file in pgAdmin or DBeaver and run it one section at a tim
 Naftaly Munene, Health Systems Data Lead, Nairobi, Kenya. I work with SQL, Python and Power BI on health programme data.
 
 - GitHub: github.com/NaftalyMunene
-- LinkedIn: [add your profile link]
+  
